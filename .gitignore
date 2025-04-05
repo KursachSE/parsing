@@ -1,0 +1,6 @@
+data/*
+
+!data/modify_json.py
+!data/universities-info.pkl
+!data/programs-links.pkl
+!data/raex.json

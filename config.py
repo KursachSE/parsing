@@ -1,0 +1,7 @@
+FOLDER = 'data'
+HOST = 'https://vuzopedia.ru'
+BAK = 'Бакалавриат и специалитет'
+MAG = 'Магистратура'
+FULL_NAME = 'Полное название'
+LINK = 'Ссылка'
+ABOUT = 'О программе'
